@@ -1,0 +1,1753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world>
+  <country>
+    <AbrVak>AD</AbrVak>
+    <EmjVak>🇦🇩</EmjVak>
+    <EucVak>U+1F1E6 U+1F1E9</EucVak>
+    <NamVak>Andorra</NamVak>
+    <MccVak>376</MccVak>
+  </country>
+  <country>
+    <AbrVak>AE</AbrVak>
+    <EmjVak>🇦🇪</EmjVak>
+    <EucVak>U+1F1E6 U+1F1EA</EucVak>
+    <NamVak>United Arab Emirates</NamVak>
+    <MccVak>971</MccVak>
+  </country>
+  <country>
+    <AbrVak>AF</AbrVak>
+    <EmjVak>🇦🇫</EmjVak>
+    <EucVak>U+1F1E6 U+1F1EB</EucVak>
+    <NamVak>Afghanistan</NamVak>
+    <MccVak>93</MccVak>
+  </country>
+  <country>
+    <AbrVak>AG</AbrVak>
+    <EmjVak>🇦🇬</EmjVak>
+    <EucVak>U+1F1E6 U+1F1EC</EucVak>
+    <NamVak>Antigua and Barbuda</NamVak>
+    <MccVak>1-268</MccVak>
+  </country>
+  <country>
+    <AbrVak>AI</AbrVak>
+    <EmjVak>🇦🇮</EmjVak>
+    <EucVak>U+1F1E6 U+1F1EE</EucVak>
+    <NamVak>Anguilla</NamVak>
+    <MccVak>1-264</MccVak>
+  </country>
+  <country>
+    <AbrVak>AL</AbrVak>
+    <EmjVak>🇦🇱</EmjVak>
+    <EucVak>U+1F1E6 U+1F1F1</EucVak>
+    <NamVak>Albania</NamVak>
+    <MccVak>355</MccVak>
+  </country>
+  <country>
+    <AbrVak>AM</AbrVak>
+    <EmjVak>🇦🇲</EmjVak>
+    <EucVak>U+1F1E6 U+1F1F2</EucVak>
+    <NamVak>Armenia</NamVak>
+    <MccVak>374</MccVak>
+  </country>
+  <country>
+    <AbrVak>AO</AbrVak>
+    <EmjVak>🇦🇴</EmjVak>
+    <EucVak>U+1F1E6 U+1F1F4</EucVak>
+    <NamVak>Angola</NamVak>
+    <MccVak>244</MccVak>
+  </country>
+  <country>
+    <AbrVak>AQ</AbrVak>
+    <EmjVak>🇦🇶</EmjVak>
+    <EucVak>U+1F1E6 U+1F1F6</EucVak>
+    <NamVak>Antarctica</NamVak>
+    <MccVak>672</MccVak>
+  </country>
+  <country>
+    <AbrVak>AR</AbrVak>
+    <EmjVak>🇦🇷</EmjVak>
+    <EucVak>U+1F1E6 U+1F1F7</EucVak>
+    <NamVak>Argentina</NamVak>
+    <MccVak>54</MccVak>
+  </country>
+  <country>
+    <AbrVak>AS</AbrVak>
+    <EmjVak>🇦🇸</EmjVak>
+    <EucVak>U+1F1E6 U+1F1F8</EucVak>
+    <NamVak>American Samoa</NamVak>
+    <MccVak>1-684</MccVak>
+  </country>
+  <country>
+    <AbrVak>AT</AbrVak>
+    <EmjVak>🇦🇹</EmjVak>
+    <EucVak>U+1F1E6 U+1F1F9</EucVak>
+    <NamVak>Austria</NamVak>
+    <MccVak>43</MccVak>
+  </country>
+  <country>
+    <AbrVak>AU</AbrVak>
+    <EmjVak>🇦🇺</EmjVak>
+    <EucVak>U+1F1E6 U+1F1FA</EucVak>
+    <NamVak>Australia</NamVak>
+    <MccVak>61</MccVak>
+  </country>
+  <country>
+    <AbrVak>AW</AbrVak>
+    <EmjVak>🇦🇼</EmjVak>
+    <EucVak>U+1F1E6 U+1F1FC</EucVak>
+    <NamVak>Aruba</NamVak>
+    <MccVak>297</MccVak>
+  </country>
+  <country>
+    <AbrVak>AX</AbrVak>
+    <EmjVak>🇦🇽</EmjVak>
+    <EucVak>U+1F1E6 U+1F1FD</EucVak>
+    <NamVak>Aland Islands</NamVak>
+    <MccVak>358</MccVak>
+  </country>
+  <country>
+    <AbrVak>AZ</AbrVak>
+    <EmjVak>🇦🇿</EmjVak>
+    <EucVak>U+1F1E6 U+1F1FF</EucVak>
+    <NamVak>Azerbaijan</NamVak>
+    <MccVak>994</MccVak>
+  </country>
+  <country>
+    <AbrVak>BA</AbrVak>
+    <EmjVak>🇧🇦</EmjVak>
+    <EucVak>U+1F1E7 U+1F1E6</EucVak>
+    <NamVak>Bosnia and Herzegovina</NamVak>
+    <MccVak>387</MccVak>
+  </country>
+  <country>
+    <AbrVak>BB</AbrVak>
+    <EmjVak>🇧🇧</EmjVak>
+    <EucVak>U+1F1E7 U+1F1E7</EucVak>
+    <NamVak>Barbados</NamVak>
+    <MccVak>1-246</MccVak>
+  </country>
+  <country>
+    <AbrVak>BD</AbrVak>
+    <EmjVak>🇧🇩</EmjVak>
+    <EucVak>U+1F1E7 U+1F1E9</EucVak>
+    <NamVak>Bangladesh</NamVak>
+    <MccVak>880</MccVak>
+  </country>
+  <country>
+    <AbrVak>BE</AbrVak>
+    <EmjVak>🇧🇪</EmjVak>
+    <EucVak>U+1F1E7 U+1F1EA</EucVak>
+    <NamVak>Belgium</NamVak>
+    <MccVak>32</MccVak>
+  </country>
+  <country>
+    <AbrVak>BF</AbrVak>
+    <EmjVak>🇧🇫</EmjVak>
+    <EucVak>U+1F1E7 U+1F1EB</EucVak>
+    <NamVak>Burkina Faso</NamVak>
+    <MccVak>226</MccVak>
+  </country>
+  <country>
+    <AbrVak>BG</AbrVak>
+    <EmjVak>🇧🇬</EmjVak>
+    <EucVak>U+1F1E7 U+1F1EC</EucVak>
+    <NamVak>Bulgaria</NamVak>
+    <MccVak>359</MccVak>
+  </country>
+  <country>
+    <AbrVak>BH</AbrVak>
+    <EmjVak>🇧🇭</EmjVak>
+    <EucVak>U+1F1E7 U+1F1ED</EucVak>
+    <NamVak>Bahrain</NamVak>
+    <MccVak>973</MccVak>
+  </country>
+  <country>
+    <AbrVak>BI</AbrVak>
+    <EmjVak>🇧🇮</EmjVak>
+    <EucVak>U+1F1E7 U+1F1EE</EucVak>
+    <NamVak>Burundi</NamVak>
+    <MccVak>257</MccVak>
+  </country>
+  <country>
+    <AbrVak>BJ</AbrVak>
+    <EmjVak>🇧🇯</EmjVak>
+    <EucVak>U+1F1E7 U+1F1EF</EucVak>
+    <NamVak>Benin</NamVak>
+    <MccVak>229</MccVak>
+  </country>
+  <country>
+    <AbrVak>BL</AbrVak>
+    <EmjVak>🇧🇱</EmjVak>
+    <EucVak>U+1F1E7 U+1F1F1</EucVak>
+    <NamVak>Saint Barthelemy</NamVak>
+    <MccVak>590</MccVak>
+  </country>
+  <country>
+    <AbrVak>BM</AbrVak>
+    <EmjVak>🇧🇲</EmjVak>
+    <EucVak>U+1F1E7 U+1F1F2</EucVak>
+    <NamVak>Bermuda</NamVak>
+    <MccVak>1-441</MccVak>
+  </country>
+  <country>
+    <AbrVak>BN</AbrVak>
+    <EmjVak>🇧🇳</EmjVak>
+    <EucVak>U+1F1E7 U+1F1F3</EucVak>
+    <NamVak>Brunei</NamVak>
+    <MccVak>673</MccVak>
+  </country>
+  <country>
+    <AbrVak>BO</AbrVak>
+    <EmjVak>🇧🇴</EmjVak>
+    <EucVak>U+1F1E7 U+1F1F4</EucVak>
+    <NamVak>Bolivia</NamVak>
+    <MccVak>591</MccVak>
+  </country>
+  <country>
+    <AbrVak>BQ</AbrVak>
+    <EmjVak>🇧🇶</EmjVak>
+    <EucVak>U+1F1E7 U+1F1F6</EucVak>
+    <NamVak>Bonaire, Sint Eustatius and Saba</NamVak>
+    <MccVak>599</MccVak>
+  </country>
+  <country>
+    <AbrVak>BR</AbrVak>
+    <EmjVak>🇧🇷</EmjVak>
+    <EucVak>U+1F1E7 U+1F1F7</EucVak>
+    <NamVak>Brazil</NamVak>
+    <MccVak>55</MccVak>
+  </country>
+  <country>
+    <AbrVak>BS</AbrVak>
+    <EmjVak>🇧🇸</EmjVak>
+    <EucVak>U+1F1E7 U+1F1F8</EucVak>
+    <NamVak>Bahamas</NamVak>
+    <MccVak>1-242</MccVak>
+  </country>
+  <country>
+    <AbrVak>BT</AbrVak>
+    <EmjVak>🇧🇹</EmjVak>
+    <EucVak>U+1F1E7 U+1F1F9</EucVak>
+    <NamVak>Bhutan</NamVak>
+    <MccVak>975</MccVak>
+  </country>
+  <country>
+    <AbrVak>BV</AbrVak>
+    <EmjVak>🇧🇻</EmjVak>
+    <EucVak>U+1F1E7 U+1F1FB</EucVak>
+    <NamVak>Bouvet Island</NamVak>
+    <MccVak>47</MccVak>
+  </country>
+  <country>
+    <AbrVak>BW</AbrVak>
+    <EmjVak>🇧🇼</EmjVak>
+    <EucVak>U+1F1E7 U+1F1FC</EucVak>
+    <NamVak>Botswana</NamVak>
+    <MccVak>267</MccVak>
+  </country>
+  <country>
+    <AbrVak>BY</AbrVak>
+    <EmjVak>🇧🇾</EmjVak>
+    <EucVak>U+1F1E7 U+1F1FE</EucVak>
+    <NamVak>Belarus</NamVak>
+    <MccVak>375</MccVak>
+  </country>
+  <country>
+    <AbrVak>BZ</AbrVak>
+    <EmjVak>🇧🇿</EmjVak>
+    <EucVak>U+1F1E7 U+1F1FF</EucVak>
+    <NamVak>Belize</NamVak>
+    <MccVak>501</MccVak>
+  </country>
+  <country>
+    <AbrVak>CA</AbrVak>
+    <EmjVak>🇨🇦</EmjVak>
+    <EucVak>U+1F1E8 U+1F1E6</EucVak>
+    <NamVak>Canada</NamVak>
+    <MccVak>1</MccVak>
+  </country>
+  <country>
+    <AbrVak>CC</AbrVak>
+    <EmjVak>🇨🇨</EmjVak>
+    <EucVak>U+1F1E8 U+1F1E8</EucVak>
+    <NamVak>Cocos Keeling Islands</NamVak>
+    <MccVak>61</MccVak>
+  </country>
+  <country>
+    <AbrVak>CD</AbrVak>
+    <EmjVak>🇨🇩</EmjVak>
+    <EucVak>U+1F1E8 U+1F1E9</EucVak>
+    <NamVak>Congo</NamVak>
+    <MccVak>242</MccVak>
+  </country>
+  <country>
+    <AbrVak>CF</AbrVak>
+    <EmjVak>🇨🇫</EmjVak>
+    <EucVak>U+1F1E8 U+1F1EB</EucVak>
+    <NamVak>Central African Republic</NamVak>
+    <MccVak>236</MccVak>
+  </country>
+  <country>
+    <AbrVak>CG</AbrVak>
+    <EmjVak>🇨🇬</EmjVak>
+    <EucVak>U+1F1E8 U+1F1EC</EucVak>
+    <NamVak>Congo</NamVak>
+    <MccVak>242</MccVak>
+  </country>
+  <country>
+    <AbrVak>CH</AbrVak>
+    <EmjVak>🇨🇭</EmjVak>
+    <EucVak>U+1F1E8 U+1F1ED</EucVak>
+    <NamVak>Switzerland</NamVak>
+    <MccVak>41</MccVak>
+  </country>
+  <country>
+    <AbrVak>CI</AbrVak>
+    <EmjVak>🇨🇮</EmjVak>
+    <EucVak>U+1F1E8 U+1F1EE</EucVak>
+    <NamVak>Cote DIvoire</NamVak>
+    <MccVak>225</MccVak>
+  </country>
+  <country>
+    <AbrVak>CK</AbrVak>
+    <EmjVak>🇨🇰</EmjVak>
+    <EucVak>U+1F1E8 U+1F1F0</EucVak>
+    <NamVak>Cook Islands</NamVak>
+    <MccVak>682</MccVak>
+  </country>
+  <country>
+    <AbrVak>CL</AbrVak>
+    <EmjVak>🇨🇱</EmjVak>
+    <EucVak>U+1F1E8 U+1F1F1</EucVak>
+    <NamVak>Chile</NamVak>
+    <MccVak>56</MccVak>
+  </country>
+  <country>
+    <AbrVak>CM</AbrVak>
+    <EmjVak>🇨🇲</EmjVak>
+    <EucVak>U+1F1E8 U+1F1F2</EucVak>
+    <NamVak>Cameroon</NamVak>
+    <MccVak>237</MccVak>
+  </country>
+  <country>
+    <AbrVak>CN</AbrVak>
+    <EmjVak>🇨🇳</EmjVak>
+    <EucVak>U+1F1E8 U+1F1F3</EucVak>
+    <NamVak>China</NamVak>
+    <MccVak>86</MccVak>
+  </country>
+  <country>
+    <AbrVak>CO</AbrVak>
+    <EmjVak>🇨🇴</EmjVak>
+    <EucVak>U+1F1E8 U+1F1F4</EucVak>
+    <NamVak>Colombia</NamVak>
+    <MccVak>57</MccVak>
+  </country>
+  <country>
+    <AbrVak>CR</AbrVak>
+    <EmjVak>🇨🇷</EmjVak>
+    <EucVak>U+1F1E8 U+1F1F7</EucVak>
+    <NamVak>Costa Rica</NamVak>
+    <MccVak>506</MccVak>
+  </country>
+  <country>
+    <AbrVak>CU</AbrVak>
+    <EmjVak>🇨🇺</EmjVak>
+    <EucVak>U+1F1E8 U+1F1FA</EucVak>
+    <NamVak>Cuba</NamVak>
+    <MccVak>53</MccVak>
+  </country>
+  <country>
+    <AbrVak>CV</AbrVak>
+    <EmjVak>🇨🇻</EmjVak>
+    <EucVak>U+1F1E8 U+1F1FB</EucVak>
+    <NamVak>Cape Verde</NamVak>
+    <MccVak>238</MccVak>
+  </country>
+  <country>
+    <AbrVak>CW</AbrVak>
+    <EmjVak>🇨🇼</EmjVak>
+    <EucVak>U+1F1E8 U+1F1FC</EucVak>
+    <NamVak>Curacao</NamVak>
+    <MccVak>599</MccVak>
+  </country>
+  <country>
+    <AbrVak>CX</AbrVak>
+    <EmjVak>🇨🇽</EmjVak>
+    <EucVak>U+1F1E8 U+1F1FD</EucVak>
+    <NamVak>Christmas Island</NamVak>
+    <MccVak>61</MccVak>
+  </country>
+  <country>
+    <AbrVak>CY</AbrVak>
+    <EmjVak>🇨🇾</EmjVak>
+    <EucVak>U+1F1E8 U+1F1FE</EucVak>
+    <NamVak>Cyprus</NamVak>
+    <MccVak>537</MccVak>
+  </country>
+  <country>
+    <AbrVak>CZ</AbrVak>
+    <EmjVak>🇨🇿</EmjVak>
+    <EucVak>U+1F1E8 U+1F1FF</EucVak>
+    <NamVak>Czech Republic</NamVak>
+    <MccVak>420</MccVak>
+  </country>
+  <country>
+    <AbrVak>DE</AbrVak>
+    <EmjVak>🇩🇪</EmjVak>
+    <EucVak>U+1F1E9 U+1F1EA</EucVak>
+    <NamVak>Germany</NamVak>
+    <MccVak>49</MccVak>
+  </country>
+  <country>
+    <AbrVak>DJ</AbrVak>
+    <EmjVak>🇩🇯</EmjVak>
+    <EucVak>U+1F1E9 U+1F1EF</EucVak>
+    <NamVak>Djibouti</NamVak>
+    <MccVak>253</MccVak>
+  </country>
+  <country>
+    <AbrVak>DK</AbrVak>
+    <EmjVak>🇩🇰</EmjVak>
+    <EucVak>U+1F1E9 U+1F1F0</EucVak>
+    <NamVak>Denmark</NamVak>
+    <MccVak>45</MccVak>
+  </country>
+  <country>
+    <AbrVak>DM</AbrVak>
+    <EmjVak>🇩🇲</EmjVak>
+    <EucVak>U+1F1E9 U+1F1F2</EucVak>
+    <NamVak>Dominica</NamVak>
+    <MccVak>1-767</MccVak>
+  </country>
+  <country>
+    <AbrVak>DO</AbrVak>
+    <EmjVak>🇩🇴</EmjVak>
+    <EucVak>U+1F1E9 U+1F1F4</EucVak>
+    <NamVak>Dominican Republic</NamVak>
+    <MccVak>1-809</MccVak>
+  </country>
+  <country>
+    <AbrVak>DZ</AbrVak>
+    <EmjVak>🇩🇿</EmjVak>
+    <EucVak>U+1F1E9 U+1F1FF</EucVak>
+    <NamVak>Algeria</NamVak>
+    <MccVak>213</MccVak>
+  </country>
+  <country>
+    <AbrVak>EC</AbrVak>
+    <EmjVak>🇪🇨</EmjVak>
+    <EucVak>U+1F1EA U+1F1E8</EucVak>
+    <NamVak>Ecuador</NamVak>
+    <MccVak>593</MccVak>
+  </country>
+  <country>
+    <AbrVak>EE</AbrVak>
+    <EmjVak>🇪🇪</EmjVak>
+    <EucVak>U+1F1EA U+1F1EA</EucVak>
+    <NamVak>Estonia</NamVak>
+    <MccVak>372</MccVak>
+  </country>
+  <country>
+    <AbrVak>EG</AbrVak>
+    <EmjVak>🇪🇬</EmjVak>
+    <EucVak>U+1F1EA U+1F1EC</EucVak>
+    <NamVak>Egypt</NamVak>
+    <MccVak>20</MccVak>
+  </country>
+  <country>
+    <AbrVak>EH</AbrVak>
+    <EmjVak>🇪🇭</EmjVak>
+    <EucVak>U+1F1EA U+1F1ED</EucVak>
+    <NamVak>Western Sahara</NamVak>
+    <MccVak>212</MccVak>
+  </country>
+  <country>
+    <AbrVak>ER</AbrVak>
+    <EmjVak>🇪🇷</EmjVak>
+    <EucVak>U+1F1EA U+1F1F7</EucVak>
+    <NamVak>Eritrea</NamVak>
+    <MccVak>291</MccVak>
+  </country>
+  <country>
+    <AbrVak>ES</AbrVak>
+    <EmjVak>🇪🇸</EmjVak>
+    <EucVak>U+1F1EA U+1F1F8</EucVak>
+    <NamVak>Spain</NamVak>
+    <MccVak>34</MccVak>
+  </country>
+  <country>
+    <AbrVak>ET</AbrVak>
+    <EmjVak>🇪🇹</EmjVak>
+    <EucVak>U+1F1EA U+1F1F9</EucVak>
+    <NamVak>Ethiopia</NamVak>
+    <MccVak>251</MccVak>
+  </country>
+  <country>
+    <AbrVak>EU</AbrVak>
+    <EmjVak>🇪🇺</EmjVak>
+    <EucVak>U+1F1EA U+1F1FA</EucVak>
+    <NamVak>European Union</NamVak>
+    <MccVak></MccVak>
+  </country>
+  <country>
+    <AbrVak>FI</AbrVak>
+    <EmjVak>🇫🇮</EmjVak>
+    <EucVak>U+1F1EB U+1F1EE</EucVak>
+    <NamVak>Finland</NamVak>
+    <MccVak>358</MccVak>
+  </country>
+  <country>
+    <AbrVak>FJ</AbrVak>
+    <EmjVak>🇫🇯</EmjVak>
+    <EucVak>U+1F1EB U+1F1EF</EucVak>
+    <NamVak>Fiji</NamVak>
+    <MccVak>679</MccVak>
+  </country>
+  <country>
+    <AbrVak>FK</AbrVak>
+    <EmjVak>🇫🇰</EmjVak>
+    <EucVak>U+1F1EB U+1F1F0</EucVak>
+    <NamVak>Falkland Islands </NamVak>
+    <MccVak>500</MccVak>
+  </country>
+  <country>
+    <AbrVak>FM</AbrVak>
+    <EmjVak>🇫🇲</EmjVak>
+    <EucVak>U+1F1EB U+1F1F2</EucVak>
+    <NamVak>Micronesia</NamVak>
+    <MccVak>691</MccVak>
+  </country>
+  <country>
+    <AbrVak>FO</AbrVak>
+    <EmjVak>🇫🇴</EmjVak>
+    <EucVak>U+1F1EB U+1F1F4</EucVak>
+    <NamVak>Faroe Islands</NamVak>
+    <MccVak>298</MccVak>
+  </country>
+  <country>
+    <AbrVak>FR</AbrVak>
+    <EmjVak>🇫🇷</EmjVak>
+    <EucVak>U+1F1EB U+1F1F7</EucVak>
+    <NamVak>France</NamVak>
+    <MccVak>33</MccVak>
+  </country>
+  <country>
+    <AbrVak>GA</AbrVak>
+    <EmjVak>🇬🇦</EmjVak>
+    <EucVak>U+1F1EC U+1F1E6</EucVak>
+    <NamVak>Gabon</NamVak>
+    <MccVak>241</MccVak>
+  </country>
+  <country>
+    <AbrVak>GB</AbrVak>
+    <EmjVak>🇬🇧</EmjVak>
+    <EucVak>U+1F1EC U+1F1E7</EucVak>
+    <NamVak>United Kingdom</NamVak>
+    <MccVak>44</MccVak>
+  </country>
+  <country>
+    <AbrVak>GD</AbrVak>
+    <EmjVak>🇬🇩</EmjVak>
+    <EucVak>U+1F1EC U+1F1E9</EucVak>
+    <NamVak>Grenada</NamVak>
+    <MccVak>1-473</MccVak>
+  </country>
+  <country>
+    <AbrVak>GE</AbrVak>
+    <EmjVak>🇬🇪</EmjVak>
+    <EucVak>U+1F1EC U+1F1EA</EucVak>
+    <NamVak>Georgia</NamVak>
+    <MccVak>995</MccVak>
+  </country>
+  <country>
+    <AbrVak>GF</AbrVak>
+    <EmjVak>🇬🇫</EmjVak>
+    <EucVak>U+1F1EC U+1F1EB</EucVak>
+    <NamVak>French Guiana</NamVak>
+    <MccVak>594</MccVak>
+  </country>
+  <country>
+    <AbrVak>GG</AbrVak>
+    <EmjVak>🇬🇬</EmjVak>
+    <EucVak>U+1F1EC U+1F1EC</EucVak>
+    <NamVak>Guernsey</NamVak>
+    <MccVak>44</MccVak>
+  </country>
+  <country>
+    <AbrVak>GH</AbrVak>
+    <EmjVak>🇬🇭</EmjVak>
+    <EucVak>U+1F1EC U+1F1ED</EucVak>
+    <NamVak>Ghana</NamVak>
+    <MccVak>233</MccVak>
+  </country>
+  <country>
+    <AbrVak>GI</AbrVak>
+    <EmjVak>🇬🇮</EmjVak>
+    <EucVak>U+1F1EC U+1F1EE</EucVak>
+    <NamVak>Gibraltar</NamVak>
+    <MccVak>350</MccVak>
+  </country>
+  <country>
+    <AbrVak>GL</AbrVak>
+    <EmjVak>🇬🇱</EmjVak>
+    <EucVak>U+1F1EC U+1F1F1</EucVak>
+    <NamVak>Greenland</NamVak>
+    <MccVak>299</MccVak>
+  </country>
+  <country>
+    <AbrVak>GM</AbrVak>
+    <EmjVak>🇬🇲</EmjVak>
+    <EucVak>U+1F1EC U+1F1F2</EucVak>
+    <NamVak>Gambia</NamVak>
+    <MccVak>220</MccVak>
+  </country>
+  <country>
+    <AbrVak>GN</AbrVak>
+    <EmjVak>🇬🇳</EmjVak>
+    <EucVak>U+1F1EC U+1F1F3</EucVak>
+    <NamVak>Guinea</NamVak>
+    <MccVak>224</MccVak>
+  </country>
+  <country>
+    <AbrVak>GP</AbrVak>
+    <EmjVak>🇬🇵</EmjVak>
+    <EucVak>U+1F1EC U+1F1F5</EucVak>
+    <NamVak>Guadeloupe</NamVak>
+    <MccVak>590</MccVak>
+  </country>
+  <country>
+    <AbrVak>GQ</AbrVak>
+    <EmjVak>🇬🇶</EmjVak>
+    <EucVak>U+1F1EC U+1F1F6</EucVak>
+    <NamVak>Equatorial Guinea</NamVak>
+    <MccVak>240</MccVak>
+  </country>
+  <country>
+    <AbrVak>GR</AbrVak>
+    <EmjVak>🇬🇷</EmjVak>
+    <EucVak>U+1F1EC U+1F1F7</EucVak>
+    <NamVak>Greece</NamVak>
+    <MccVak>30</MccVak>
+  </country>
+  <country>
+    <AbrVak>GS</AbrVak>
+    <EmjVak>🇬🇸</EmjVak>
+    <EucVak>U+1F1EC U+1F1F8</EucVak>
+    <NamVak>Georgia</NamVak>
+    <MccVak>995</MccVak>
+  </country>
+  <country>
+    <AbrVak>GT</AbrVak>
+    <EmjVak>🇬🇹</EmjVak>
+    <EucVak>U+1F1EC U+1F1F9</EucVak>
+    <NamVak>Guatemala</NamVak>
+    <MccVak>502</MccVak>
+  </country>
+  <country>
+    <AbrVak>GU</AbrVak>
+    <EmjVak>🇬🇺</EmjVak>
+    <EucVak>U+1F1EC U+1F1FA</EucVak>
+    <NamVak>Guam</NamVak>
+    <MccVak>1-671</MccVak>
+  </country>
+  <country>
+    <AbrVak>GW</AbrVak>
+    <EmjVak>🇬🇼</EmjVak>
+    <EucVak>U+1F1EC U+1F1FC</EucVak>
+    <NamVak>Guinea-Bissau</NamVak>
+    <MccVak>245</MccVak>
+  </country>
+  <country>
+    <AbrVak>GY</AbrVak>
+    <EmjVak>🇬🇾</EmjVak>
+    <EucVak>U+1F1EC U+1F1FE</EucVak>
+    <NamVak>Guyana</NamVak>
+    <MccVak>595</MccVak>
+  </country>
+  <country>
+    <AbrVak>HK</AbrVak>
+    <EmjVak>🇭🇰</EmjVak>
+    <EucVak>U+1F1ED U+1F1F0</EucVak>
+    <NamVak>Hong Kong</NamVak>
+    <MccVak>852</MccVak>
+  </country>
+  <country>
+    <AbrVak>HM</AbrVak>
+    <EmjVak>🇭🇲</EmjVak>
+    <EucVak>U+1F1ED U+1F1F2</EucVak>
+    <NamVak>Heard Island and Mcdonald Islands</NamVak>
+    <MccVak>672</MccVak>
+  </country>
+  <country>
+    <AbrVak>HN</AbrVak>
+    <EmjVak>🇭🇳</EmjVak>
+    <EucVak>U+1F1ED U+1F1F3</EucVak>
+    <NamVak>Honduras</NamVak>
+    <MccVak>504</MccVak>
+  </country>
+  <country>
+    <AbrVak>HR</AbrVak>
+    <EmjVak>🇭🇷</EmjVak>
+    <EucVak>U+1F1ED U+1F1F7</EucVak>
+    <NamVak>Croatia</NamVak>
+    <MccVak>385</MccVak>
+  </country>
+  <country>
+    <AbrVak>HT</AbrVak>
+    <EmjVak>🇭🇹</EmjVak>
+    <EucVak>U+1F1ED U+1F1F9</EucVak>
+    <NamVak>Haiti</NamVak>
+    <MccVak>509</MccVak>
+  </country>
+  <country>
+    <AbrVak>HU</AbrVak>
+    <EmjVak>🇭🇺</EmjVak>
+    <EucVak>U+1F1ED U+1F1FA</EucVak>
+    <NamVak>Hungary</NamVak>
+    <MccVak>36</MccVak>
+  </country>
+  <country>
+    <AbrVak>ID</AbrVak>
+    <EmjVak>🇮🇩</EmjVak>
+    <EucVak>U+1F1EE U+1F1E9</EucVak>
+    <NamVak>Indonesia</NamVak>
+    <MccVak>62</MccVak>
+  </country>
+  <country>
+    <AbrVak>IE</AbrVak>
+    <EmjVak>🇮🇪</EmjVak>
+    <EucVak>U+1F1EE U+1F1EA</EucVak>
+    <NamVak>Ireland</NamVak>
+    <MccVak>353</MccVak>
+  </country>
+  <country>
+    <AbrVak>IL</AbrVak>
+    <EmjVak>🇮🇱</EmjVak>
+    <EucVak>U+1F1EE U+1F1F1</EucVak>
+    <NamVak>Israel</NamVak>
+    <MccVak>972</MccVak>
+  </country>
+  <country>
+    <AbrVak>IM</AbrVak>
+    <EmjVak>🇮🇲</EmjVak>
+    <EucVak>U+1F1EE U+1F1F2</EucVak>
+    <NamVak>Isle of Man</NamVak>
+    <MccVak>44</MccVak>
+  </country>
+  <country>
+    <AbrVak>IN</AbrVak>
+    <EmjVak>🇮🇳</EmjVak>
+    <EucVak>U+1F1EE U+1F1F3</EucVak>
+    <NamVak>India</NamVak>
+    <MccVak>91</MccVak>
+  </country>
+  <country>
+    <AbrVak>IO</AbrVak>
+    <EmjVak>🇮🇴</EmjVak>
+    <EucVak>U+1F1EE U+1F1F4</EucVak>
+    <NamVak>British Indian Ocean Territory</NamVak>
+    <MccVak>246</MccVak>
+  </country>
+  <country>
+    <AbrVak>IQ</AbrVak>
+    <EmjVak>🇮🇶</EmjVak>
+    <EucVak>U+1F1EE U+1F1F6</EucVak>
+    <NamVak>Iraq</NamVak>
+    <MccVak>964</MccVak>
+  </country>
+  <country>
+    <AbrVak>IR</AbrVak>
+    <EmjVak>🇮🇷</EmjVak>
+    <EucVak>U+1F1EE U+1F1F7</EucVak>
+    <NamVak>Iran</NamVak>
+    <MccVak>98</MccVak>
+  </country>
+  <country>
+    <AbrVak>IS</AbrVak>
+    <EmjVak>🇮🇸</EmjVak>
+    <EucVak>U+1F1EE U+1F1F8</EucVak>
+    <NamVak>Iceland</NamVak>
+    <MccVak>354</MccVak>
+  </country>
+  <country>
+    <AbrVak>IT</AbrVak>
+    <EmjVak>🇮🇹</EmjVak>
+    <EucVak>U+1F1EE U+1F1F9</EucVak>
+    <NamVak>Italy</NamVak>
+    <MccVak>39</MccVak>
+  </country>
+  <country>
+    <AbrVak>JE</AbrVak>
+    <EmjVak>🇯🇪</EmjVak>
+    <EucVak>U+1F1EF U+1F1EA</EucVak>
+    <NamVak>Jersey</NamVak>
+    <MccVak>44</MccVak>
+  </country>
+  <country>
+    <AbrVak>JM</AbrVak>
+    <EmjVak>🇯🇲</EmjVak>
+    <EucVak>U+1F1EF U+1F1F2</EucVak>
+    <NamVak>Jamaica</NamVak>
+    <MccVak>1-876</MccVak>
+  </country>
+  <country>
+    <AbrVak>JO</AbrVak>
+    <EmjVak>🇯🇴</EmjVak>
+    <EucVak>U+1F1EF U+1F1F4</EucVak>
+    <NamVak>Jordan</NamVak>
+    <MccVak>962</MccVak>
+  </country>
+  <country>
+    <AbrVak>JP</AbrVak>
+    <EmjVak>🇯🇵</EmjVak>
+    <EucVak>U+1F1EF U+1F1F5</EucVak>
+    <NamVak>Japan</NamVak>
+    <MccVak>81</MccVak>
+  </country>
+  <country>
+    <AbrVak>KE</AbrVak>
+    <EmjVak>🇰🇪</EmjVak>
+    <EucVak>U+1F1F0 U+1F1EA</EucVak>
+    <NamVak>Kenya</NamVak>
+    <MccVak>254</MccVak>
+  </country>
+  <country>
+    <AbrVak>KG</AbrVak>
+    <EmjVak>🇰🇬</EmjVak>
+    <EucVak>U+1F1F0 U+1F1EC</EucVak>
+    <NamVak>Kyrgyzstan</NamVak>
+    <MccVak>996</MccVak>
+  </country>
+  <country>
+    <AbrVak>KH</AbrVak>
+    <EmjVak>🇰🇭</EmjVak>
+    <EucVak>U+1F1F0 U+1F1ED</EucVak>
+    <NamVak>Cambodia</NamVak>
+    <MccVak>855</MccVak>
+  </country>
+  <country>
+    <AbrVak>KI</AbrVak>
+    <EmjVak>🇰🇮</EmjVak>
+    <EucVak>U+1F1F0 U+1F1EE</EucVak>
+    <NamVak>Kiribati</NamVak>
+    <MccVak>686</MccVak>
+  </country>
+  <country>
+    <AbrVak>KM</AbrVak>
+    <EmjVak>🇰🇲</EmjVak>
+    <EucVak>U+1F1F0 U+1F1F2</EucVak>
+    <NamVak>Comoros</NamVak>
+    <MccVak>269</MccVak>
+  </country>
+  <country>
+    <AbrVak>KN</AbrVak>
+    <EmjVak>🇰🇳</EmjVak>
+    <EucVak>U+1F1F0 U+1F1F3</EucVak>
+    <NamVak>Saint Kitts and Nevis</NamVak>
+    <MccVak>1</MccVak>
+  </country>
+  <country>
+    <AbrVak>KP</AbrVak>
+    <EmjVak>🇰🇵</EmjVak>
+    <EucVak>U+1F1F0 U+1F1F5</EucVak>
+    <NamVak>North Korea</NamVak>
+    <MccVak>850</MccVak>
+  </country>
+  <country>
+    <AbrVak>KR</AbrVak>
+    <EmjVak>🇰🇷</EmjVak>
+    <EucVak>U+1F1F0 U+1F1F7</EucVak>
+    <NamVak>South Korea</NamVak>
+    <MccVak>82</MccVak>
+  </country>
+  <country>
+    <AbrVak>KW</AbrVak>
+    <EmjVak>🇰🇼</EmjVak>
+    <EucVak>U+1F1F0 U+1F1FC</EucVak>
+    <NamVak>Kuwait</NamVak>
+    <MccVak>965</MccVak>
+  </country>
+  <country>
+    <AbrVak>KY</AbrVak>
+    <EmjVak>🇰🇾</EmjVak>
+    <EucVak>U+1F1F0 U+1F1FE</EucVak>
+    <NamVak>Cayman Islands</NamVak>
+    <MccVak>345</MccVak>
+  </country>
+  <country>
+    <AbrVak>KZ</AbrVak>
+    <EmjVak>🇰🇿</EmjVak>
+    <EucVak>U+1F1F0 U+1F1FF</EucVak>
+    <NamVak>Kazakhstan</NamVak>
+    <MccVak>43288</MccVak>
+  </country>
+  <country>
+    <AbrVak>LA</AbrVak>
+    <EmjVak>🇱🇦</EmjVak>
+    <EucVak>U+1F1F1 U+1F1E6</EucVak>
+    <NamVak>Laos</NamVak>
+    <MccVak>856</MccVak>
+  </country>
+  <country>
+    <AbrVak>LB</AbrVak>
+    <EmjVak>🇱🇧</EmjVak>
+    <EucVak>U+1F1F1 U+1F1E7</EucVak>
+    <NamVak>Lebanon</NamVak>
+    <MccVak>961</MccVak>
+  </country>
+  <country>
+    <AbrVak>LC</AbrVak>
+    <EmjVak>🇱🇨</EmjVak>
+    <EucVak>U+1F1F1 U+1F1E8</EucVak>
+    <NamVak>Saint Lucia</NamVak>
+    <MccVak>1</MccVak>
+  </country>
+  <country>
+    <AbrVak>LI</AbrVak>
+    <EmjVak>🇱🇮</EmjVak>
+    <EucVak>U+1F1F1 U+1F1EE</EucVak>
+    <NamVak>Liechtenstein</NamVak>
+    <MccVak>423</MccVak>
+  </country>
+  <country>
+    <AbrVak>LK</AbrVak>
+    <EmjVak>🇱🇰</EmjVak>
+    <EucVak>U+1F1F1 U+1F1F0</EucVak>
+    <NamVak>Sri Lanka</NamVak>
+    <MccVak>94</MccVak>
+  </country>
+  <country>
+    <AbrVak>LR</AbrVak>
+    <EmjVak>🇱🇷</EmjVak>
+    <EucVak>U+1F1F1 U+1F1F7</EucVak>
+    <NamVak>Liberia</NamVak>
+    <MccVak>231</MccVak>
+  </country>
+  <country>
+    <AbrVak>LS</AbrVak>
+    <EmjVak>🇱🇸</EmjVak>
+    <EucVak>U+1F1F1 U+1F1F8</EucVak>
+    <NamVak>Lesotho</NamVak>
+    <MccVak>266</MccVak>
+  </country>
+  <country>
+    <AbrVak>LT</AbrVak>
+    <EmjVak>🇱🇹</EmjVak>
+    <EucVak>U+1F1F1 U+1F1F9</EucVak>
+    <NamVak>Lithuania</NamVak>
+    <MccVak>370</MccVak>
+  </country>
+  <country>
+    <AbrVak>LU</AbrVak>
+    <EmjVak>🇱🇺</EmjVak>
+    <EucVak>U+1F1F1 U+1F1FA</EucVak>
+    <NamVak>Luxembourg</NamVak>
+    <MccVak>352</MccVak>
+  </country>
+  <country>
+    <AbrVak>LV</AbrVak>
+    <EmjVak>🇱🇻</EmjVak>
+    <EucVak>U+1F1F1 U+1F1FB</EucVak>
+    <NamVak>Latvia</NamVak>
+    <MccVak>371</MccVak>
+  </country>
+  <country>
+    <AbrVak>LY</AbrVak>
+    <EmjVak>🇱🇾</EmjVak>
+    <EucVak>U+1F1F1 U+1F1FE</EucVak>
+    <NamVak>Libya</NamVak>
+    <MccVak>218</MccVak>
+  </country>
+  <country>
+    <AbrVak>MA</AbrVak>
+    <EmjVak>🇲🇦</EmjVak>
+    <EucVak>U+1F1F2 U+1F1E6</EucVak>
+    <NamVak>Morocco</NamVak>
+    <MccVak>212</MccVak>
+  </country>
+  <country>
+    <AbrVak>MC</AbrVak>
+    <EmjVak>🇲🇨</EmjVak>
+    <EucVak>U+1F1F2 U+1F1E8</EucVak>
+    <NamVak>Monaco</NamVak>
+    <MccVak>377</MccVak>
+  </country>
+  <country>
+    <AbrVak>MD</AbrVak>
+    <EmjVak>🇲🇩</EmjVak>
+    <EucVak>U+1F1F2 U+1F1E9</EucVak>
+    <NamVak>Moldova</NamVak>
+    <MccVak>373</MccVak>
+  </country>
+  <country>
+    <AbrVak>ME</AbrVak>
+    <EmjVak>🇲🇪</EmjVak>
+    <EucVak>U+1F1F2 U+1F1EA</EucVak>
+    <NamVak>Montenegro</NamVak>
+    <MccVak>382</MccVak>
+  </country>
+  <country>
+    <AbrVak>MF</AbrVak>
+    <EmjVak>🇲🇫</EmjVak>
+    <EucVak>U+1F1F2 U+1F1EB</EucVak>
+    <NamVak>Saint Martin (French Part)</NamVak>
+    <MccVak>590</MccVak>
+  </country>
+  <country>
+    <AbrVak>MG</AbrVak>
+    <EmjVak>🇲🇬</EmjVak>
+    <EucVak>U+1F1F2 U+1F1EC</EucVak>
+    <NamVak>Madagascar</NamVak>
+    <MccVak>261</MccVak>
+  </country>
+  <country>
+    <AbrVak>MH</AbrVak>
+    <EmjVak>🇲🇭</EmjVak>
+    <EucVak>U+1F1F2 U+1F1ED</EucVak>
+    <NamVak>Marshall Islands</NamVak>
+    <MccVak>692</MccVak>
+  </country>
+  <country>
+    <AbrVak>MK</AbrVak>
+    <EmjVak>🇲🇰</EmjVak>
+    <EucVak>U+1F1F2 U+1F1F0</EucVak>
+    <NamVak>Macedonia</NamVak>
+    <MccVak>389</MccVak>
+  </country>
+  <country>
+    <AbrVak>ML</AbrVak>
+    <EmjVak>🇲🇱</EmjVak>
+    <EucVak>U+1F1F2 U+1F1F1</EucVak>
+    <NamVak>Mali</NamVak>
+    <MccVak>223</MccVak>
+  </country>
+  <country>
+    <AbrVak>MM</AbrVak>
+    <EmjVak>🇲🇲</EmjVak>
+    <EucVak>U+1F1F2 U+1F1F2</EucVak>
+    <NamVak>Myanmar</NamVak>
+    <MccVak>95</MccVak>
+  </country>
+  <country>
+    <AbrVak>MN</AbrVak>
+    <EmjVak>🇲🇳</EmjVak>
+    <EucVak>U+1F1F2 U+1F1F3</EucVak>
+    <NamVak>Mongolia</NamVak>
+    <MccVak>976</MccVak>
+  </country>
+  <country>
+    <AbrVak>MO</AbrVak>
+    <EmjVak>🇲🇴</EmjVak>
+    <EucVak>U+1F1F2 U+1F1F4</EucVak>
+    <NamVak>Macau</NamVak>
+    <MccVak>853</MccVak>
+  </country>
+  <country>
+    <AbrVak>MP</AbrVak>
+    <EmjVak>🇲🇵</EmjVak>
+    <EucVak>U+1F1F2 U+1F1F5</EucVak>
+    <NamVak>Northern Mariana Islands</NamVak>
+    <MccVak>1-670</MccVak>
+  </country>
+  <country>
+    <AbrVak>MQ</AbrVak>
+    <EmjVak>🇲🇶</EmjVak>
+    <EucVak>U+1F1F2 U+1F1F6</EucVak>
+    <NamVak>Martinique</NamVak>
+    <MccVak>596</MccVak>
+  </country>
+  <country>
+    <AbrVak>MR</AbrVak>
+    <EmjVak>🇲🇷</EmjVak>
+    <EucVak>U+1F1F2 U+1F1F7</EucVak>
+    <NamVak>Mauritania</NamVak>
+    <MccVak>222</MccVak>
+  </country>
+  <country>
+    <AbrVak>MS</AbrVak>
+    <EmjVak>🇲🇸</EmjVak>
+    <EucVak>U+1F1F2 U+1F1F8</EucVak>
+    <NamVak>Montserrat</NamVak>
+    <MccVak>1664</MccVak>
+  </country>
+  <country>
+    <AbrVak>MT</AbrVak>
+    <EmjVak>🇲🇹</EmjVak>
+    <EucVak>U+1F1F2 U+1F1F9</EucVak>
+    <NamVak>Malta</NamVak>
+    <MccVak>356</MccVak>
+  </country>
+  <country>
+    <AbrVak>MU</AbrVak>
+    <EmjVak>🇲🇺</EmjVak>
+    <EucVak>U+1F1F2 U+1F1FA</EucVak>
+    <NamVak>Mauritius</NamVak>
+    <MccVak>230</MccVak>
+  </country>
+  <country>
+    <AbrVak>MV</AbrVak>
+    <EmjVak>🇲🇻</EmjVak>
+    <EucVak>U+1F1F2 U+1F1FB</EucVak>
+    <NamVak>Maldives</NamVak>
+    <MccVak>960</MccVak>
+  </country>
+  <country>
+    <AbrVak>MW</AbrVak>
+    <EmjVak>🇲🇼</EmjVak>
+    <EucVak>U+1F1F2 U+1F1FC</EucVak>
+    <NamVak>Malawi</NamVak>
+    <MccVak>265</MccVak>
+  </country>
+  <country>
+    <AbrVak>MX</AbrVak>
+    <EmjVak>🇲🇽</EmjVak>
+    <EucVak>U+1F1F2 U+1F1FD</EucVak>
+    <NamVak>Mexico</NamVak>
+    <MccVak>52</MccVak>
+  </country>
+  <country>
+    <AbrVak>MY</AbrVak>
+    <EmjVak>🇲🇾</EmjVak>
+    <EucVak>U+1F1F2 U+1F1FE</EucVak>
+    <NamVak>Malaysia</NamVak>
+    <MccVak>60</MccVak>
+  </country>
+  <country>
+    <AbrVak>MZ</AbrVak>
+    <EmjVak>🇲🇿</EmjVak>
+    <EucVak>U+1F1F2 U+1F1FF</EucVak>
+    <NamVak>Mozambique</NamVak>
+    <MccVak>258</MccVak>
+  </country>
+  <country>
+    <AbrVak>NA</AbrVak>
+    <EmjVak>🇳🇦</EmjVak>
+    <EucVak>U+1F1F3 U+1F1E6</EucVak>
+    <NamVak>Namibia</NamVak>
+    <MccVak>264</MccVak>
+  </country>
+  <country>
+    <AbrVak>NC</AbrVak>
+    <EmjVak>🇳🇨</EmjVak>
+    <EucVak>U+1F1F3 U+1F1E8</EucVak>
+    <NamVak>New Caledonia</NamVak>
+    <MccVak>687</MccVak>
+  </country>
+  <country>
+    <AbrVak>NE</AbrVak>
+    <EmjVak>🇳🇪</EmjVak>
+    <EucVak>U+1F1F3 U+1F1EA</EucVak>
+    <NamVak>Niger</NamVak>
+    <MccVak>227</MccVak>
+  </country>
+  <country>
+    <AbrVak>NF</AbrVak>
+    <EmjVak>🇳🇫</EmjVak>
+    <EucVak>U+1F1F3 U+1F1EB</EucVak>
+    <NamVak>Norfolk Island</NamVak>
+    <MccVak>672</MccVak>
+  </country>
+  <country>
+    <AbrVak>NG</AbrVak>
+    <EmjVak>🇳🇬</EmjVak>
+    <EucVak>U+1F1F3 U+1F1EC</EucVak>
+    <NamVak>Nigeria</NamVak>
+    <MccVak>234</MccVak>
+  </country>
+  <country>
+    <AbrVak>NI</AbrVak>
+    <EmjVak>🇳🇮</EmjVak>
+    <EucVak>U+1F1F3 U+1F1EE</EucVak>
+    <NamVak>Nicaragua</NamVak>
+    <MccVak>505</MccVak>
+  </country>
+  <country>
+    <AbrVak>NL</AbrVak>
+    <EmjVak>🇳🇱</EmjVak>
+    <EucVak>U+1F1F3 U+1F1F1</EucVak>
+    <NamVak>Netherlands</NamVak>
+    <MccVak>31</MccVak>
+  </country>
+  <country>
+    <AbrVak>NO</AbrVak>
+    <EmjVak>🇳🇴</EmjVak>
+    <EucVak>U+1F1F3 U+1F1F4</EucVak>
+    <NamVak>Norway</NamVak>
+    <MccVak>47</MccVak>
+  </country>
+  <country>
+    <AbrVak>NP</AbrVak>
+    <EmjVak>🇳🇵</EmjVak>
+    <EucVak>U+1F1F3 U+1F1F5</EucVak>
+    <NamVak>Nepal</NamVak>
+    <MccVak>977</MccVak>
+  </country>
+  <country>
+    <AbrVak>NR</AbrVak>
+    <EmjVak>🇳🇷</EmjVak>
+    <EucVak>U+1F1F3 U+1F1F7</EucVak>
+    <NamVak>Nauru</NamVak>
+    <MccVak>674</MccVak>
+  </country>
+  <country>
+    <AbrVak>NU</AbrVak>
+    <EmjVak>🇳🇺</EmjVak>
+    <EucVak>U+1F1F3 U+1F1FA</EucVak>
+    <NamVak>Niue</NamVak>
+    <MccVak>683</MccVak>
+  </country>
+  <country>
+    <AbrVak>NZ</AbrVak>
+    <EmjVak>🇳🇿</EmjVak>
+    <EucVak>U+1F1F3 U+1F1FF</EucVak>
+    <NamVak>New Zealand</NamVak>
+    <MccVak>64</MccVak>
+  </country>
+  <country>
+    <AbrVak>OM</AbrVak>
+    <EmjVak>🇴🇲</EmjVak>
+    <EucVak>U+1F1F4 U+1F1F2</EucVak>
+    <NamVak>Oman</NamVak>
+    <MccVak>968</MccVak>
+  </country>
+  <country>
+    <AbrVak>PA</AbrVak>
+    <EmjVak>🇵🇦</EmjVak>
+    <EucVak>U+1F1F5 U+1F1E6</EucVak>
+    <NamVak>Panama</NamVak>
+    <MccVak>507</MccVak>
+  </country>
+  <country>
+    <AbrVak>PE</AbrVak>
+    <EmjVak>🇵🇪</EmjVak>
+    <EucVak>U+1F1F5 U+1F1EA</EucVak>
+    <NamVak>Peru</NamVak>
+    <MccVak>51</MccVak>
+  </country>
+  <country>
+    <AbrVak>PF</AbrVak>
+    <EmjVak>🇵🇫</EmjVak>
+    <EucVak>U+1F1F5 U+1F1EB</EucVak>
+    <NamVak>French Polynesia</NamVak>
+    <MccVak>689</MccVak>
+  </country>
+  <country>
+    <AbrVak>PG</AbrVak>
+    <EmjVak>🇵🇬</EmjVak>
+    <EucVak>U+1F1F5 U+1F1EC</EucVak>
+    <NamVak>Papua New Guinea</NamVak>
+    <MccVak>675</MccVak>
+  </country>
+  <country>
+    <AbrVak>PH</AbrVak>
+    <EmjVak>🇵🇭</EmjVak>
+    <EucVak>U+1F1F5 U+1F1ED</EucVak>
+    <NamVak>Philippines</NamVak>
+    <MccVak>63</MccVak>
+  </country>
+  <country>
+    <AbrVak>PK</AbrVak>
+    <EmjVak>🇵🇰</EmjVak>
+    <EucVak>U+1F1F5 U+1F1F0</EucVak>
+    <NamVak>Pakistan</NamVak>
+    <MccVak>92</MccVak>
+  </country>
+  <country>
+    <AbrVak>PL</AbrVak>
+    <EmjVak>🇵🇱</EmjVak>
+    <EucVak>U+1F1F5 U+1F1F1</EucVak>
+    <NamVak>Poland</NamVak>
+    <MccVak>48</MccVak>
+  </country>
+  <country>
+    <AbrVak>PM</AbrVak>
+    <EmjVak>🇵🇲</EmjVak>
+    <EucVak>U+1F1F5 U+1F1F2</EucVak>
+    <NamVak>Saint Pierre and Miquelon</NamVak>
+    <MccVak>508</MccVak>
+  </country>
+  <country>
+    <AbrVak>PN</AbrVak>
+    <EmjVak>🇵🇳</EmjVak>
+    <EucVak>U+1F1F5 U+1F1F3</EucVak>
+    <NamVak>Pitcairn</NamVak>
+    <MccVak>64</MccVak>
+  </country>
+  <country>
+    <AbrVak>PR</AbrVak>
+    <EmjVak>🇵🇷</EmjVak>
+    <EucVak>U+1F1F5 U+1F1F7</EucVak>
+    <NamVak>Puerto Rico</NamVak>
+    <MccVak>1-787</MccVak>
+  </country>
+  <country>
+    <AbrVak>PS</AbrVak>
+    <EmjVak>🇵🇸</EmjVak>
+    <EucVak>U+1F1F5 U+1F1F8</EucVak>
+    <NamVak>Palestinian Territory</NamVak>
+    <MccVak>970</MccVak>
+  </country>
+  <country>
+    <AbrVak>PT</AbrVak>
+    <EmjVak>🇵🇹</EmjVak>
+    <EucVak>U+1F1F5 U+1F1F9</EucVak>
+    <NamVak>Portugal</NamVak>
+    <MccVak>351</MccVak>
+  </country>
+  <country>
+    <AbrVak>PW</AbrVak>
+    <EmjVak>🇵🇼</EmjVak>
+    <EucVak>U+1F1F5 U+1F1FC</EucVak>
+    <NamVak>Palau</NamVak>
+    <MccVak>680</MccVak>
+  </country>
+  <country>
+    <AbrVak>PY</AbrVak>
+    <EmjVak>🇵🇾</EmjVak>
+    <EucVak>U+1F1F5 U+1F1FE</EucVak>
+    <NamVak>Paraguay</NamVak>
+    <MccVak>595</MccVak>
+  </country>
+  <country>
+    <AbrVak>QA</AbrVak>
+    <EmjVak>🇶🇦</EmjVak>
+    <EucVak>U+1F1F6 U+1F1E6</EucVak>
+    <NamVak>Qatar</NamVak>
+    <MccVak>974</MccVak>
+  </country>
+  <country>
+    <AbrVak>RE</AbrVak>
+    <EmjVak>🇷🇪</EmjVak>
+    <EucVak>U+1F1F7 U+1F1EA</EucVak>
+    <NamVak>Reunion</NamVak>
+    <MccVak>262</MccVak>
+  </country>
+  <country>
+    <AbrVak>RO</AbrVak>
+    <EmjVak>🇷🇴</EmjVak>
+    <EucVak>U+1F1F7 U+1F1F4</EucVak>
+    <NamVak>Romania</NamVak>
+    <MccVak>40</MccVak>
+  </country>
+  <country>
+    <AbrVak>RS</AbrVak>
+    <EmjVak>🇷🇸</EmjVak>
+    <EucVak>U+1F1F7 U+1F1F8</EucVak>
+    <NamVak>Serbia</NamVak>
+    <MccVak>381</MccVak>
+  </country>
+  <country>
+    <AbrVak>RU</AbrVak>
+    <EmjVak>🇷🇺</EmjVak>
+    <EucVak>U+1F1F7 U+1F1FA</EucVak>
+    <NamVak>Russia</NamVak>
+    <MccVak>7</MccVak>
+  </country>
+  <country>
+    <AbrVak>RW</AbrVak>
+    <EmjVak>🇷🇼</EmjVak>
+    <EucVak>U+1F1F7 U+1F1FC</EucVak>
+    <NamVak>Rwanda</NamVak>
+    <MccVak>250</MccVak>
+  </country>
+  <country>
+    <AbrVak>SA</AbrVak>
+    <EmjVak>🇸🇦</EmjVak>
+    <EucVak>U+1F1F8 U+1F1E6</EucVak>
+    <NamVak>Saudi Arabia</NamVak>
+    <MccVak>966</MccVak>
+  </country>
+  <country>
+    <AbrVak>SB</AbrVak>
+    <EmjVak>🇸🇧</EmjVak>
+    <EucVak>U+1F1F8 U+1F1E7</EucVak>
+    <NamVak>Solomon Islands</NamVak>
+    <MccVak>677</MccVak>
+  </country>
+  <country>
+    <AbrVak>SC</AbrVak>
+    <EmjVak>🇸🇨</EmjVak>
+    <EucVak>U+1F1F8 U+1F1E8</EucVak>
+    <NamVak>Seychelles</NamVak>
+    <MccVak>248</MccVak>
+  </country>
+  <country>
+    <AbrVak>SD</AbrVak>
+    <EmjVak>🇸🇩</EmjVak>
+    <EucVak>U+1F1F8 U+1F1E9</EucVak>
+    <NamVak>Sudan</NamVak>
+    <MccVak>249</MccVak>
+  </country>
+  <country>
+    <AbrVak>SE</AbrVak>
+    <EmjVak>🇸🇪</EmjVak>
+    <EucVak>U+1F1F8 U+1F1EA</EucVak>
+    <NamVak>Sweden</NamVak>
+    <MccVak>46</MccVak>
+  </country>
+  <country>
+    <AbrVak>SG</AbrVak>
+    <EmjVak>🇸🇬</EmjVak>
+    <EucVak>U+1F1F8 U+1F1EC</EucVak>
+    <NamVak>Singapore</NamVak>
+    <MccVak>65</MccVak>
+  </country>
+  <country>
+    <AbrVak>SH</AbrVak>
+    <EmjVak>🇸🇭</EmjVak>
+    <EucVak>U+1F1F8 U+1F1ED</EucVak>
+    <NamVak>Saint Helena, Ascension and Tristan Da Cunha</NamVak>
+    <MccVak>290</MccVak>
+  </country>
+  <country>
+    <AbrVak>SI</AbrVak>
+    <EmjVak>🇸🇮</EmjVak>
+    <EucVak>U+1F1F8 U+1F1EE</EucVak>
+    <NamVak>Slovenia</NamVak>
+    <MccVak>386</MccVak>
+  </country>
+  <country>
+    <AbrVak>SJ</AbrVak>
+    <EmjVak>🇸🇯</EmjVak>
+    <EucVak>U+1F1F8 U+1F1EF</EucVak>
+    <NamVak>Svalbard and Jan Mayen</NamVak>
+    <MccVak>47</MccVak>
+  </country>
+  <country>
+    <AbrVak>SK</AbrVak>
+    <EmjVak>🇸🇰</EmjVak>
+    <EucVak>U+1F1F8 U+1F1F0</EucVak>
+    <NamVak>Slovakia</NamVak>
+    <MccVak>421</MccVak>
+  </country>
+  <country>
+    <AbrVak>SL</AbrVak>
+    <EmjVak>🇸🇱</EmjVak>
+    <EucVak>U+1F1F8 U+1F1F1</EucVak>
+    <NamVak>Sierra Leone</NamVak>
+    <MccVak>232</MccVak>
+  </country>
+  <country>
+    <AbrVak>SM</AbrVak>
+    <EmjVak>🇸🇲</EmjVak>
+    <EucVak>U+1F1F8 U+1F1F2</EucVak>
+    <NamVak>San Marino</NamVak>
+    <MccVak>378</MccVak>
+  </country>
+  <country>
+    <AbrVak>SN</AbrVak>
+    <EmjVak>🇸🇳</EmjVak>
+    <EucVak>U+1F1F8 U+1F1F3</EucVak>
+    <NamVak>Senegal</NamVak>
+    <MccVak>221</MccVak>
+  </country>
+  <country>
+    <AbrVak>SO</AbrVak>
+    <EmjVak>🇸🇴</EmjVak>
+    <EucVak>U+1F1F8 U+1F1F4</EucVak>
+    <NamVak>Somalia</NamVak>
+    <MccVak>252</MccVak>
+  </country>
+  <country>
+    <AbrVak>SR</AbrVak>
+    <EmjVak>🇸🇷</EmjVak>
+    <EucVak>U+1F1F8 U+1F1F7</EucVak>
+    <NamVak>Suriname</NamVak>
+    <MccVak>597</MccVak>
+  </country>
+  <country>
+    <AbrVak>SS</AbrVak>
+    <EmjVak>🇸🇸</EmjVak>
+    <EucVak>U+1F1F8 U+1F1F8</EucVak>
+    <NamVak>South Sudan</NamVak>
+    <MccVak>211</MccVak>
+  </country>
+  <country>
+    <AbrVak>ST</AbrVak>
+    <EmjVak>🇸🇹</EmjVak>
+    <EucVak>U+1F1F8 U+1F1F9</EucVak>
+    <NamVak>Sao Tome and Principe</NamVak>
+    <MccVak>239</MccVak>
+  </country>
+  <country>
+    <AbrVak>SV</AbrVak>
+    <EmjVak>🇸🇻</EmjVak>
+    <EucVak>U+1F1F8 U+1F1FB</EucVak>
+    <NamVak>El Salvador</NamVak>
+    <MccVak>503</MccVak>
+  </country>
+  <country>
+    <AbrVak>SX</AbrVak>
+    <EmjVak>🇸🇽</EmjVak>
+    <EucVak>U+1F1F8 U+1F1FD</EucVak>
+    <NamVak>Sint Maarten (Dutch Part)</NamVak>
+    <MccVak>1</MccVak>
+  </country>
+  <country>
+    <AbrVak>SY</AbrVak>
+    <EmjVak>🇸🇾</EmjVak>
+    <EucVak>U+1F1F8 U+1F1FE</EucVak>
+    <NamVak>Syria</NamVak>
+    <MccVak>963</MccVak>
+  </country>
+  <country>
+    <AbrVak>SZ</AbrVak>
+    <EmjVak>🇸🇿</EmjVak>
+    <EucVak>U+1F1F8 U+1F1FF</EucVak>
+    <NamVak>Swaziland</NamVak>
+    <MccVak>268</MccVak>
+  </country>
+  <country>
+    <AbrVak>TC</AbrVak>
+    <EmjVak>🇹🇨</EmjVak>
+    <EucVak>U+1F1F9 U+1F1E8</EucVak>
+    <NamVak>Turks and Caicos Islands</NamVak>
+    <MccVak>1-649</MccVak>
+  </country>
+  <country>
+    <AbrVak>TD</AbrVak>
+    <EmjVak>🇹🇩</EmjVak>
+    <EucVak>U+1F1F9 U+1F1E9</EucVak>
+    <NamVak>Chad</NamVak>
+    <MccVak>235</MccVak>
+  </country>
+  <country>
+    <AbrVak>TF</AbrVak>
+    <EmjVak>🇹🇫</EmjVak>
+    <EucVak>U+1F1F9 U+1F1EB</EucVak>
+    <NamVak>French Southern Territories</NamVak>
+    <MccVak>33</MccVak>
+  </country>
+  <country>
+    <AbrVak>TG</AbrVak>
+    <EmjVak>🇹🇬</EmjVak>
+    <EucVak>U+1F1F9 U+1F1EC</EucVak>
+    <NamVak>Togo</NamVak>
+    <MccVak>228</MccVak>
+  </country>
+  <country>
+    <AbrVak>TH</AbrVak>
+    <EmjVak>🇹🇭</EmjVak>
+    <EucVak>U+1F1F9 U+1F1ED</EucVak>
+    <NamVak>Thailand</NamVak>
+    <MccVak>66</MccVak>
+  </country>
+  <country>
+    <AbrVak>TJ</AbrVak>
+    <EmjVak>🇹🇯</EmjVak>
+    <EucVak>U+1F1F9 U+1F1EF</EucVak>
+    <NamVak>Tajikistan</NamVak>
+    <MccVak>992</MccVak>
+  </country>
+  <country>
+    <AbrVak>TK</AbrVak>
+    <EmjVak>🇹🇰</EmjVak>
+    <EucVak>U+1F1F9 U+1F1F0</EucVak>
+    <NamVak>Tokelau</NamVak>
+    <MccVak>690</MccVak>
+  </country>
+  <country>
+    <AbrVak>TL</AbrVak>
+    <EmjVak>🇹🇱</EmjVak>
+    <EucVak>U+1F1F9 U+1F1F1</EucVak>
+    <NamVak>Timor Leste</NamVak>
+    <MccVak>670</MccVak>
+  </country>
+  <country>
+    <AbrVak>TM</AbrVak>
+    <EmjVak>🇹🇲</EmjVak>
+    <EucVak>U+1F1F9 U+1F1F2</EucVak>
+    <NamVak>Turkmenistan</NamVak>
+    <MccVak>993</MccVak>
+  </country>
+  <country>
+    <AbrVak>TN</AbrVak>
+    <EmjVak>🇹🇳</EmjVak>
+    <EucVak>U+1F1F9 U+1F1F3</EucVak>
+    <NamVak>Tunisia</NamVak>
+    <MccVak>216</MccVak>
+  </country>
+  <country>
+    <AbrVak>TO</AbrVak>
+    <EmjVak>🇹🇴</EmjVak>
+    <EucVak>U+1F1F9 U+1F1F4</EucVak>
+    <NamVak>Tonga</NamVak>
+    <MccVak>676</MccVak>
+  </country>
+  <country>
+    <AbrVak>TR</AbrVak>
+    <EmjVak>🇹🇷</EmjVak>
+    <EucVak>U+1F1F9 U+1F1F7</EucVak>
+    <NamVak>Turkey</NamVak>
+    <MccVak>90</MccVak>
+  </country>
+  <country>
+    <AbrVak>TT</AbrVak>
+    <EmjVak>🇹🇹</EmjVak>
+    <EucVak>U+1F1F9 U+1F1F9</EucVak>
+    <NamVak>Trinidad and Tobago</NamVak>
+    <MccVak>1-868</MccVak>
+  </country>
+  <country>
+    <AbrVak>TV</AbrVak>
+    <EmjVak>🇹🇻</EmjVak>
+    <EucVak>U+1F1F9 U+1F1FB</EucVak>
+    <NamVak>Tuvalu</NamVak>
+    <MccVak>688</MccVak>
+  </country>
+  <country>
+    <AbrVak>TW</AbrVak>
+    <EmjVak>🇹🇼</EmjVak>
+    <EucVak>U+1F1F9 U+1F1FC</EucVak>
+    <NamVak>Taiwan</NamVak>
+    <MccVak>886</MccVak>
+  </country>
+  <country>
+    <AbrVak>TZ</AbrVak>
+    <EmjVak>🇹🇿</EmjVak>
+    <EucVak>U+1F1F9 U+1F1FF</EucVak>
+    <NamVak>Tanzania</NamVak>
+    <MccVak>255</MccVak>
+  </country>
+  <country>
+    <AbrVak>UA</AbrVak>
+    <EmjVak>🇺🇦</EmjVak>
+    <EucVak>U+1F1FA U+1F1E6</EucVak>
+    <NamVak>Ukraine</NamVak>
+    <MccVak>380</MccVak>
+  </country>
+  <country>
+    <AbrVak>UG</AbrVak>
+    <EmjVak>🇺🇬</EmjVak>
+    <EucVak>U+1F1FA U+1F1EC</EucVak>
+    <NamVak>Uganda</NamVak>
+    <MccVak>256</MccVak>
+  </country>
+  <country>
+    <AbrVak>UM</AbrVak>
+    <EmjVak>🇺🇲</EmjVak>
+    <EucVak>U+1F1FA U+1F1F2</EucVak>
+    <NamVak>United States Minor Outlying Islands</NamVak>
+    <MccVak>246</MccVak>
+  </country>
+  <country>
+    <AbrVak>US</AbrVak>
+    <EmjVak>🇺🇸</EmjVak>
+    <EucVak>U+1F1FA U+1F1F8</EucVak>
+    <NamVak>United States</NamVak>
+    <MccVak>1</MccVak>
+  </country>
+  <country>
+    <AbrVak>UY</AbrVak>
+    <EmjVak>🇺🇾</EmjVak>
+    <EucVak>U+1F1FA U+1F1FE</EucVak>
+    <NamVak>Uruguay</NamVak>
+    <MccVak>598</MccVak>
+  </country>
+  <country>
+    <AbrVak>UZ</AbrVak>
+    <EmjVak>🇺🇿</EmjVak>
+    <EucVak>U+1F1FA U+1F1FF</EucVak>
+    <NamVak>Uzbekistan</NamVak>
+    <MccVak>998</MccVak>
+  </country>
+  <country>
+    <AbrVak>VA</AbrVak>
+    <EmjVak>🇻🇦</EmjVak>
+    <EucVak>U+1F1FB U+1F1E6</EucVak>
+    <NamVak>Vatican City</NamVak>
+    <MccVak>379</MccVak>
+  </country>
+  <country>
+    <AbrVak>VC</AbrVak>
+    <EmjVak>🇻🇨</EmjVak>
+    <EucVak>U+1F1FB U+1F1E8</EucVak>
+    <NamVak>Saint Vincent and The Grenadines</NamVak>
+    <MccVak>1</MccVak>
+  </country>
+  <country>
+    <AbrVak>VE</AbrVak>
+    <EmjVak>🇻🇪</EmjVak>
+    <EucVak>U+1F1FB U+1F1EA</EucVak>
+    <NamVak>Venezuela</NamVak>
+    <MccVak>58</MccVak>
+  </country>
+  <country>
+    <AbrVak>VG</AbrVak>
+    <EmjVak>🇻🇬</EmjVak>
+    <EucVak>U+1F1FB U+1F1EC</EucVak>
+    <NamVak>Virgin Islands, British</NamVak>
+    <MccVak>1-284</MccVak>
+  </country>
+  <country>
+    <AbrVak>VI</AbrVak>
+    <EmjVak>🇻🇮</EmjVak>
+    <EucVak>U+1F1FB U+1F1EE</EucVak>
+    <NamVak>Virgin Islands, U.S.</NamVak>
+    <MccVak>1-340</MccVak>
+  </country>
+  <country>
+    <AbrVak>VN</AbrVak>
+    <EmjVak>🇻🇳</EmjVak>
+    <EucVak>U+1F1FB U+1F1F3</EucVak>
+    <NamVak>Viet Nam</NamVak>
+    <MccVak>84</MccVak>
+  </country>
+  <country>
+    <AbrVak>VU</AbrVak>
+    <EmjVak>🇻🇺</EmjVak>
+    <EucVak>U+1F1FB U+1F1FA</EucVak>
+    <NamVak>Vanuatu</NamVak>
+    <MccVak>678</MccVak>
+  </country>
+  <country>
+    <AbrVak>WF</AbrVak>
+    <EmjVak>🇼🇫</EmjVak>
+    <EucVak>U+1F1FC U+1F1EB</EucVak>
+    <NamVak>Wallis and Futuna</NamVak>
+    <MccVak>681</MccVak>
+  </country>
+  <country>
+    <AbrVak>WS</AbrVak>
+    <EmjVak>🇼🇸</EmjVak>
+    <EucVak>U+1F1FC U+1F1F8</EucVak>
+    <NamVak>Samoa</NamVak>
+    <MccVak>685</MccVak>
+  </country>
+  <country>
+    <AbrVak>YE</AbrVak>
+    <EmjVak>🇾🇪</EmjVak>
+    <EucVak>U+1F1FE U+1F1EA</EucVak>
+    <NamVak>Yemen</NamVak>
+    <MccVak>967</MccVak>
+  </country>
+  <country>
+    <AbrVak>YT</AbrVak>
+    <EmjVak>🇾🇹</EmjVak>
+    <EucVak>U+1F1FE U+1F1F9</EucVak>
+    <NamVak>Mayotte</NamVak>
+    <MccVak>262</MccVak>
+  </country>
+  <country>
+    <AbrVak>ZA</AbrVak>
+    <EmjVak>🇿🇦</EmjVak>
+    <EucVak>U+1F1FF U+1F1E6</EucVak>
+    <NamVak>South Africa</NamVak>
+    <MccVak>27</MccVak>
+  </country>
+  <country>
+    <AbrVak>ZM</AbrVak>
+    <EmjVak>🇿🇲</EmjVak>
+    <EucVak>U+1F1FF U+1F1F2</EucVak>
+    <NamVak>Zambia</NamVak>
+    <MccVak>260</MccVak>
+  </country>
+  <country>
+    <AbrVak>ZW</AbrVak>
+    <EmjVak>🇿🇼</EmjVak>
+    <EucVak>U+1F1FF U+1F1FC</EucVak>
+    <NamVak>Zimbabwe</NamVak>
+    <MccVak>263</MccVak>
+  </country>
+</world>
