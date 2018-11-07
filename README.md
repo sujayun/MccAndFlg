@@ -8,4 +8,4 @@ EucVak = Emoji Unicode, <br>
 NamVak = Country Name, <br>
 MccVak = Mobile Country Code <br>
 
-You can get the above info in all 3 formats of file, JSON, CSV and XML
+You can get the above info in all 3 formats of file : .JSON, .CSV and .XML
